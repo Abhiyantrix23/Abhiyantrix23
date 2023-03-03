@@ -130,10 +130,10 @@ nav {
 }
 
 /* change navbar styles on scroll using javascript */
-.window-scroll {
+/* .window-scroll {
   background: var(--color-bg3);
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
-}
+} */
 
 .nav__container {
   height: 100%;
