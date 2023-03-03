@@ -189,7 +189,7 @@ hr{
 }
 
 .team__member:hover img {
-  filter: saturate(0);
+  filter: saturate(1);
 }
 
 .team__member-info * {
