@@ -1014,3 +1014,6 @@ footer ul li a:hover {
    gap:1rem;
  }
 }
+.active{
+    border-bottom: 3px solid var(--color-primary);
+}
