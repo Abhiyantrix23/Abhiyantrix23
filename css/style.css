@@ -121,7 +121,7 @@ img {
 
 /* =================== NAVBAR ===================== */
 nav {
-  background: transparent;
+  background: var(--color-bg3);
   width: 100vw;
   height: 4rem;
   position: fixed;
